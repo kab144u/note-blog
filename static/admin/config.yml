@@ -11,9 +11,9 @@ public_folder: "img"
 collections:
  - name: "post"
    label: "Post"
-   folder: "src/pages/{{year}}-{{month}}-{{day}}-{{slug}}"
+   folder: "src/pages"
    create: true
-   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+   slug: "{{year}}-{{month}}-{{day}}-{{slug}}/index"
    fields:
    - {label: "Title", name: "title", widget: "string"}
    - {label: "Description", name: "description", widget: "text", required: false}
