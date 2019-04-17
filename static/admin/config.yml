@@ -1,6 +1,6 @@
 backend:
   name: gitlab
-  repo: kab144u # GitHubのリポジトリ　「https://github.com/」の後ろの部分
+  repo: kab144u/note-blog # GitHubのリポジトリ　「https://github.com/」の後ろの部分
   branch: master
 
 media_folder: "static/img" # Folder where user uploaded files should go
