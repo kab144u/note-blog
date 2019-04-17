@@ -3,8 +3,8 @@ module.exports = {
   author: 'sjf', // Required
   description: '思考のゴミ箱',
   primaryColor: '#3498db', // Required
-  showHeaderImage: false,
-  showShareButtons: false,
+  showHeaderImage: true,
+  showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
     website: 'https://ryanfitzgerald.ca',
