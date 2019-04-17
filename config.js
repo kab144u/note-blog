@@ -1,10 +1,10 @@
 module.exports = {
   title: '脳吐', // Required
-  author: 'Kai Uemura', // Required
-  description: '思ったこと',
+  author: 'sjf', // Required
+  description: '思考のゴミ箱',
   primaryColor: '#3498db', // Required
-  showHeaderImage: true,
-  showShareButtons: true,
+  showHeaderImage: false,
+  showShareButtons: false,
   postsPerPage: 5, // Required
   social: {
     website: 'https://ryanfitzgerald.ca',
